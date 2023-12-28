@@ -1,9 +1,11 @@
-# ABetterModpack
+# ABetterButBrutalModpack
 
 A Better But Brutal Modpack created for Lethal Company. Initially released to help my friends download all the necessary mods to play
 in a stable environment together, especially those who have entry-level computers. This modpack features many different fun 
 and quality of life mods such as Mimics' and Skinwalkers to touchscreen interface, HUD changes, additional item slots 
-for walkie-talkies & flashlights, more suits and emotes! 
+for walkie-talkies & flashlights, more suits and emotes!
+
+Please note that this modpack is the Brutal version of my original modpack, [ABetterModpack](https://thunderstore.io/c/lethal-company/p/WateryScoobydoo/ABetterModpack/)
 
 This modpack is still in development and will be releasing more stable versions of the current mods in the near future.
 
