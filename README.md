@@ -41,7 +41,8 @@ This modpack is still in development and will be releasing more stable versions 
 ## Lag Mitigation
 
 If you are still experiencing any performance issues, please disable the following mods to increase FPS:
-- Sligili's HDLethalCompany
+- MoreBlood by FlipMods
+- HDLethalCompany by Sligili
 
 ## Featuring Mods
 
@@ -63,15 +64,15 @@ If you are still experiencing any performance issues, please disable the followi
 - FlipMods' FasterItemDropShip
 - FlipMods' HotbarPlus
 - FlipMods' LetMeLookDown
+- FlipMods' MoreBlood
+- FlipMods' ReservedFlashlightSlot
 - FlipMods' ReservedItemSlotCore
 - FlipMods' ReservedWalkieSlot
-- FlipMods' ReservedFlashlightSlot
+- FlipMods' ReservedWeaponSlot
 - Hexnet111's SuitSaver
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
 - monkes_mods' JumpDelayPatch
-- MegaPiggy's BuyableShotgun
-- MegaPiggy's BuyableShotgunShells
 - Nips' Brutal Company Plus
 - no00ob's LCSoundTool
 - PopleZoo's BetterItemScan
