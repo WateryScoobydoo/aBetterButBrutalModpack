@@ -38,6 +38,11 @@ This modpack is still in development and will be releasing more stable versions 
 | F7 | Twerk |
 | F8 | Salute |
 
+## Lag Mitigation
+
+If you are still experiencing any performance issues, please disable the following mods to increase FPS:
+- Sligili's HDLethalCompany
+
 ## Featuring Mods
 
 - 2018's LC_API
