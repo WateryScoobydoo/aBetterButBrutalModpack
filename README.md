@@ -51,6 +51,7 @@ This modpack is still in development and will be releasing more stable versions 
 - EliteMasterEric's Coroner
 - Evaisa's HookGenPatcher
 - Evaisa's LethalLib
+- Evaisa's LethalThings
 - FlipMods' BetterStamina
 - FlipMods' FasterItemDropShip
 - FlipMods' HotbarPlus
@@ -64,6 +65,7 @@ This modpack is still in development and will be releasing more stable versions 
 - monkes_mods' JumpDelayPatch
 - MegaPiggy's BuyableShotgun
 - MegaPiggy's BuyableShotgunShells
+- Nips' Brutal Company Plus
 - no00ob's LCSoundTool
 - PopleZoo's BetterItemScan
 - RickArg's Helmet_Cameras
