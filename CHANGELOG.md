@@ -1,5 +1,16 @@
 ## Releases
 
+### Version 1.3.1
+
+- Adjusted configurations for the ghostCodes mod: Increased minimum ghost events from 5 to 25
+- Adjusted configurations for the LethalThings mod: Increased chance to spawn Boomba from 30% to 50%
+- Adjusted configurations for the LethalPresents mod: Increased chance to spawn an enemy from 10% to 25%
+- Updated ReservedFlashlightSlot by FlipMods to version 1.5.2
+- Updated ReservedWalkieSlot by FlipMods to version 1.5.1
+- Updated ReservedItemSlotCore by FlipMods to version 1.7.1
+- Updated Modpack description to reflect the new mods and features available
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
 ### Version 1.3.0
 
 - Added LethalPresents by Azim: 10% chance to spawn a random enemy by opening a present
