@@ -53,8 +53,10 @@ If you are still experiencing any performance issues, please disable the followi
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
 - ATK's ShipClock
+- Azim's LethalPresents
 - BepInEx's BepInExPack
 - bizzlemip's BiggerLobby
+- darmuh's ghostCodes
 - Drakorle's MoreItems
 - EliteMasterEric's Coroner
 - Evaisa's HookGenPatcher
