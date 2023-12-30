@@ -27,8 +27,8 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
-| [ | Previous Page for Suits |
-| ] | Next Page for Suits |
+| b | Previous Page for Suits |
+| n | Next Page for Suits |
 | F1 | Dance |
 | F2 | Point |
 | F3 | Middle Finger |
@@ -79,6 +79,7 @@ If you are still experiencing any performance issues, please disable the followi
 - monkes_mods' JumpDelayPatch
 - Nips' Brutal Company Plus
 - no00ob's LCSoundTool
+- Norman's GlowStickSuits
 - PopleZoo's BetterItemScan
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers

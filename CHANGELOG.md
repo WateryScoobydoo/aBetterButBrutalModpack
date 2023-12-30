@@ -1,5 +1,11 @@
 ## Releases
 
+### Version 1.3.3
+
+- Added GlowStickSuits by Norman: New coloured suits to choose from
+- Fixed a bug where changing suit pages did not work as intended
+- Updated README to reflect new remapped keybinds
+
 ### Version 1.3.2
 
 - Added Hold_Scan_Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
@@ -19,7 +25,6 @@
 - Updated ReservedWalkieSlot by FlipMods to version 1.5.1
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.1
 - Updated Modpack description to reflect the new mods and features available
-- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.3.0
 
