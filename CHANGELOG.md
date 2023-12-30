@@ -1,5 +1,15 @@
 ## Releases
 
+### Version 1.3.2
+
+- Added Hold_Scan_Button by FutureSavior: Allows you to hold right click to scan, rather than smashing your mouse
+- Added MaskedEnemyOverhaul by HomelessGiner: Removes mask from Mimic enemy and wears their custom suit
+- Added CoilHeadStare by TwinDimensionalProductions: Allows the coilhead to move its face towards you
+- Fixed a bug where performance report notes were not loading correctly
+- Updated Touchscreen by TheDeadSnake to version 1.0.8
+- Updated LC_API by to version 3.2.2
+- Updated Coroner by EliteMasterEric to version 1.5.1
+
 ### Version 1.3.1
 
 - Adjusted configurations for the ghostCodes mod: Increased minimum ghost events from 5 to 25
@@ -29,7 +39,6 @@
 - Adjusted configurations for the Mimics mod: Increased chances of Mimics to spawn per moon
 - Adjusted configurations for the BetterItemScan mod: Lowered item scan range
 - Adjusted configurations for the FasterItemDropShip mod: Increased seconds after door opened
-- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.2.0
 

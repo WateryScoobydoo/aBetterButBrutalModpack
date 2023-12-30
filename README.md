@@ -71,7 +71,9 @@ If you are still experiencing any performance issues, please disable the followi
 - FlipMods' ReservedItemSlotCore
 - FlipMods' ReservedWalkieSlot
 - FlipMods' ReservedWeaponSlot
+- FutureSavior's Hold_Scan_Button
 - Hexnet111's SuitSaver
+- HomelessGinger's MaskedEnemyOverhaul
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
 - monkes_mods' JumpDelayPatch
@@ -86,6 +88,7 @@ If you are still experiencing any performance issues, please disable the followi
 - taffyko's NameplateTweaks
 - tinyhoot's ShipLoot
 - TheDeadSnake's Touchscreen
+- TwinDimensionalProductions' CoilHeadStare
 - Verity's TooManySuits
 - x753's Mimics
 - x753's More_Suits
