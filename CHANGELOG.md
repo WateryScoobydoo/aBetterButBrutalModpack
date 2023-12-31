@@ -1,5 +1,13 @@
 ## Releases
 
+### Version 1.4.1
+
+- Updated ReservedItemSlotCore by FlipMods to version 1.7.2
+- Updated HotbarPlus by FlipMods to version 1.4.5
+- Updated LethalRichPresence by mrov to version 0.4.0
+- Adjusted configurations for the Skinwalker mod: Increased voice frequency from 1.5 to 1.75
+- Adjusted configurations for the CoilHeadStare mod: Increased max stare distance from 6 to 8
+
 ### Version 1.4.0
 
 - Added KarmaForBeingAnnoying by CTMods: A chance to explode for using Airhorn, Clownhorn, or remote
