@@ -1,5 +1,12 @@
 ## Releases
 
+### Version 1.4.2
+
+- Removed FunMines: Unstable support for this modpack
+- Adjusted configurations for the KarmaForBeingAnnoying mod: Decreased chance using remote from 40% to 5%
+- Adjusted configurations for the KarmaForBeingAnnoying mod: Decreased chance using airhorn from 25% to 5%
+- Adjusted configurations for the KarmaForBeingAnnoying mod: Decreased chance using clownhorn from 10% to 5%
+
 ### Version 1.4.1
 
 - Updated ReservedItemSlotCore by FlipMods to version 1.7.2

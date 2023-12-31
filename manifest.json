@@ -1,6 +1,6 @@
 {
     "name": "ABetterButBrutalModpack",
-    "version_number": "1.4.1",
+    "version_number": "1.4.2",
     "website_url": "https://github.com/WateryScoobydoo/aBetterButBrutalModpack",
     "description": "A Modpack containing LethalThings, Brutal Company Plus, Emotes, Quality of Life, Mimics, Skinwalkers and more!",
     "dependencies": [
@@ -43,7 +43,6 @@
         "no00ob-LCSoundTool-1.4.0",
         "Norman-GlowStickSuits-1.0.4",
         "PopleZoo-BetterItemScan-2.1.7",
-        "RedaOps-FunMines-1.2.0",
         "RickArg-Helmet_Cameras-2.1.5",
         "RugbugRedfern-Skinwalkers-2.0.1",
         "Rune580-LethalCompany_InputUtils-0.4.4",

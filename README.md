@@ -85,7 +85,6 @@ If you are still experiencing any performance issues, please disable the followi
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - PopleZoo's BetterItemScan
-- RedaOps' FunMines
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
