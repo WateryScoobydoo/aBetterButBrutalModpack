@@ -27,8 +27,8 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
-| b | Previous Page for Suits |
-| n | Next Page for Suits |
+| B | Previous Page for Suits |
+| N | Next Page for Suits |
 | F1 | Dance |
 | F2 | Point |
 | F3 | Middle Finger |
@@ -54,7 +54,9 @@ If you are still experiencing any performance issues, please disable the followi
 - anormaltwig's LateCompany
 - ATK's ShipClock
 - Azim's LethalPresents
+- BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- CTMods' KarmaForBeingAnnoying
 - bizzlemip's BiggerLobby
 - darmuh's ghostCodes
 - Drakorle's MoreItems
@@ -72,15 +74,18 @@ If you are still experiencing any performance issues, please disable the followi
 - FlipMods' ReservedWalkieSlot
 - FlipMods' ReservedWeaponSlot
 - FutureSavior's Hold_Scan_Button
+- gamehog44's LethalRadiation
 - Hexnet111's SuitSaver
 - HomelessGinger's MaskedEnemyOverhaul
 - KoderTeh's Boombox_Controller
 - matsuura's HealthMetrics
 - monkes_mods' JumpDelayPatch
+- mrov's LethanRichPresence
 - Nips' Brutal Company Plus
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - PopleZoo's BetterItemScan
+- RedaOps' FunMines
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils

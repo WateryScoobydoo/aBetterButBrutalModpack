@@ -1,5 +1,20 @@
 ## Releases
 
+### Version 1.4.0
+
+- Added KarmaForBeingAnnoying by CTMods: A chance to explode for using Airhorn, Clownhorn, or remote
+- Added LethalRadiation by gamehog44: Adds repercussions for removing the apparatus
+- Added LethalRichPresence by mrov: Enables Discord Rich Presence support
+- Added FunMines by RedaOps: Enables mines to have proximity sensors
+- Added LethalFashion by BatTeam: Unlocks vanilla suits by default
+- Adjusted configurations for the KarmaForBeingAnnoying mod: Increased chance using remote from 10% to 40%
+- Adjusted configurations for the KarmaForBeingAnnoying mod: Increased chance using airhorn from 10% to 25%
+- Updated LateCompany by anormaltwig to version 1.0.8
+- Updated Boombox_Controller by KoderTeh to version 1.1.3
+- Updated DiscountAlert by akechii to version 2.3.0
+- Updated Coroner by EliteMasterEric to version 1.5.3
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
 ### Version 1.3.3
 
 - Added GlowStickSuits by Norman: New coloured suits to choose from
@@ -13,7 +28,7 @@
 - Added CoilHeadStare by TwinDimensionalProductions: Allows the coilhead to move its face towards you
 - Fixed a bug where performance report notes were not loading correctly
 - Updated Touchscreen by TheDeadSnake to version 1.0.8
-- Updated LC_API by to version 3.2.2
+- Updated LC_API by 2018 to version 3.2.2
 - Updated Coroner by EliteMasterEric to version 1.5.1
 
 ### Version 1.3.1
