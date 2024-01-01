@@ -38,12 +38,6 @@ This modpack is still in development and will be releasing more stable versions 
 | F7 | Twerk |
 | F8 | Salute |
 
-## Lag Mitigation
-
-If you are still experiencing any performance issues, please disable the following mods to increase FPS:
-- MoreBlood by FlipMods
-- HDLethalCompany by Sligili
-
 ## Featuring Mods
 
 - 2018's LC_API
@@ -77,7 +71,10 @@ If you are still experiencing any performance issues, please disable the followi
 - gamehog44's LethalRadiation
 - Hexnet111's SuitSaver
 - HomelessGinger's MaskedEnemyOverhaul
+- itsmeowdev's DoorFix
 - KoderTeh's Boombox_Controller
+- linkoid's DissonanceLagFix
+- MassiveNewCoilers' FixCentipedeLag
 - matsuura's HealthMetrics
 - monkes_mods' JumpDelayPatch
 - mrov's LethanRichPresence
