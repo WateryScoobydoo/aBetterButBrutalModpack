@@ -1,5 +1,21 @@
 ## Releases
 
+### Version 1.4.5
+
+- Updated ReservedItemSlotCore to version 1.7.7
+- Updated ReservedWeaponSlot to version 1.0.3
+- Updated BetterItemScan to version 2.1.8
+- Updated LC_API to version 3.3.0
+- Updated Boombox_Controller to version 1.1.5
+- Updated SpectateEnemies to version 2.1.1
+- Updated ReservedFlashlightSlot to version 1.5.5
+- Updated ReservedWalkieSlot to versionn 1.5.3
+- Updated LethalPresents to version 1.0.4
+- Updated TooManySuits to version 1.0.5
+- Updated FasterItemDropship to version 1.2.1
+- Updated MaskedEnemyOverhaul to version 2.2.1
+- Updated LethalRichPresence to version 0.5.2
+
 ### Version 1.4.4
 
 - Updated ReservedItemCoreSlot by FlipMods to version 1.7.5
