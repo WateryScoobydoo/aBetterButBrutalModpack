@@ -1,5 +1,20 @@
 ## Releases
 
+### Version 1.5.0
+
+- Added MirrorDecor by quackandcheese: Adds a working mirror decoration to the ship
+- Added Scoopys_Variety_Mod by scoopy: Adds a new dungeon-themed interior and more scraps
+- Added LethalExpansion by HolographicWings: Large game expansion with SDK support
+- Added Kast by Ceelery: Adds a new late-game moon. Proceed with caution
+- Added MoreCompany by notnotnotswipez: A stable lobby player count expansion mod
+- Added LandmineFix by TheBeeTeam: Fixes landmine behaviour in v45
+- Adjusted configurations for the LethalExpansion mod: Enabled LethalCompanyPlus controller
+- Updated BetterItemScan to version 2.1.9
+- Updated Mimics to version 2.3.1
+- Removed BiggerLobby by bizzlemip: Incompatible and duplicate, replaced with MoreCompany
+- Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
 ### Version 1.4.5
 
 - Updated ReservedItemSlotCore to version 1.7.7

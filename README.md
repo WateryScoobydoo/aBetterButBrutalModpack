@@ -46,12 +46,11 @@ This modpack is still in development and will be releasing more stable versions 
 - AllToasters' QuickRestarts
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
-- ATK's ShipClock
 - Azim's LethalPresents
 - BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- Ceelery's Kast
 - CTMods' KarmaForBeingAnnoying
-- bizzlemip's BiggerLobby
 - darmuh's ghostCodes
 - Drakorle's MoreItems
 - EliteMasterEric's Coroner
@@ -70,6 +69,7 @@ This modpack is still in development and will be releasing more stable versions 
 - FutureSavior's Hold_Scan_Button
 - gamehog44's LethalRadiation
 - Hexnet111's SuitSaver
+- HolographicWings' LethalExpansion
 - HomelessGinger's MaskedEnemyOverhaul
 - itsmeowdev's DoorFix
 - KoderTeh's Boombox_Controller
@@ -81,14 +81,18 @@ This modpack is still in development and will be releasing more stable versions 
 - Nips' Brutal Company Plus
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
+- notnotnotswipez's MoreCompany
 - PopleZoo's BetterItemScan
+- quackandcheese's MirrorDecor
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
+- scoopy's Scoopys_Variety_Mod
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
 - tinyhoot's ShipLoot
+- TheBeeTeam's LandmineFix
 - TheDeadSnake's Touchscreen
 - TwinDimensionalProductions' CoilHeadStare
 - Verity's TooManySuits
