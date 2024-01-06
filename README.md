@@ -43,7 +43,6 @@ This modpack is still in development and will be releasing more stable versions 
 - 2018's LC_API
 - akechii's DiscountAlert
 - AlexCodesGames' AdditionalSuits
-- AllToasters' QuickRestarts
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
 - Azim's LethalPresents
@@ -72,10 +71,12 @@ This modpack is still in development and will be releasing more stable versions 
 - HolographicWings' LethalExpansion
 - HomelessGinger's MaskedEnemyOverhaul
 - itsmeowdev's DoorFix
+- Jamil's Corporate Restructure
 - KoderTeh's Boombox_Controller
 - linkoid's DissonanceLagFix
 - MassiveNewCoilers' FixCentipedeLag
 - matsuura's HealthMetrics
+- Mhz's MoreHead
 - monkes_mods' JumpDelayPatch
 - mrov's LethanRichPresence
 - Nips' Brutal Company Plus

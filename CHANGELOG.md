@@ -8,11 +8,14 @@
 - Added Kast by Ceelery: Adds a new late-game moon. Proceed with caution
 - Added MoreCompany by notnotnotswipez: A stable lobby player count expansion mod
 - Added LandmineFix by TheBeeTeam: Fixes landmine behaviour in v45
+- Added Corporate Restructure by Jamil: A QoL Overhaul for Corporate Executives
+- Added MoreHead by Mhz: Simple cosmetics, joy for you
 - Adjusted configurations for the LethalExpansion mod: Enabled LethalCompanyPlus controller
 - Updated BetterItemScan to version 2.1.9
 - Updated Mimics to version 2.3.1
 - Removed BiggerLobby by bizzlemip: Incompatible and duplicate, replaced with MoreCompany
 - Removed ShipClock by ATK: Duplicate mod, replaced by LethalExpansion
+- Removed QuickRestart by AllToasters: Duplicate mod, replaced by Corporate Restructure
 - **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
 
 ### Version 1.4.5
