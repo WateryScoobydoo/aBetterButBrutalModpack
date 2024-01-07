@@ -1,5 +1,13 @@
 ## Releases
 
+### Version 1.5.1
+
+- Added Aquatis by sfDesat: Added the Aquatis moon
+- Added Orion by sfDesat: Added the Orion moon
+- Updated BetterItemScan to version 3.0.0
+- Updated ReservedFlashlightSlot to version 1.5.7
+- Updated HotbarPlus to version 1.4.8
+
 ### Version 1.5.0
 
 - Added MirrorDecor by quackandcheese: Adds a working mirror decoration to the ship
