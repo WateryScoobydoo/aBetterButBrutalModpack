@@ -75,7 +75,7 @@ This modpack is still in development and will be releasing more stable versions 
 - HomelessGinger's MaskedEnemyOverhaul
 - IAmBatby's LethalLevelLoader
 - itsmeowdev's DoorFix
-- Jamil's Corporate Restructure
+- Jamil's Corporate_Restructure
 - KoderTeh's Boombox_Controller
 - linkoid's DissonanceLagFix
 - MassiveNewCoilers' FixCentipedeLag
@@ -83,7 +83,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Mhz's MoreHead
 - monkes_mods' JumpDelayPatch
 - mrov's LethanRichPresence
-- Nips' Brutal Company Plus
+- Nips' Brutal_Company_Plus
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - notnotnotswipez's MoreCompany
@@ -100,7 +100,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
 - taffyko's NiceChat
-- TeamClark's SCP Foundation Suit
+- TeamClark's SCP_Foundation_Suit
 - tinyhoot's ShipLoot
 - TheBeeTeam's LandmineFix
 - TheDeadSnake's Touchscreen
