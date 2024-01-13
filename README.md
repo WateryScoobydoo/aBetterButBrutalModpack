@@ -41,13 +41,16 @@ This modpack is still in development and will be releasing more stable versions 
 ## Featuring Mods
 
 - 2018's LC_API
+- 5Bit's VoiceHUD
 - akechii's DiscountAlert
+- AlexCodesGames' AdditionalContentFramework
 - AlexCodesGames' AdditionalSuits
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
 - Azim's LethalPresents
 - BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- Blorb's WeatherMultipliers
 - Ceelery's Kast
 - CTMods' KarmaForBeingAnnoying
 - darmuh's ghostCodes
@@ -70,6 +73,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Hexnet111's SuitSaver
 - HolographicWings' LethalExpansion
 - HomelessGinger's MaskedEnemyOverhaul
+- IAmBatby's LethalLevelLoader
 - itsmeowdev's DoorFix
 - Jamil's Corporate Restructure
 - KoderTeh's Boombox_Controller
@@ -83,6 +87,7 @@ This modpack is still in development and will be releasing more stable versions 
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
 - notnotnotswipez's MoreCompany
+- Ozone's Runtime_Netcode_Patcher
 - PopleZoo's BetterItemScan
 - quackandcheese's MirrorDecor
 - RickArg's Helmet_Cameras
@@ -94,11 +99,16 @@ This modpack is still in development and will be releasing more stable versions 
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
+- taffyko's NiceChat
+- TeamClark's SCP Foundation Suit
 - tinyhoot's ShipLoot
 - TheBeeTeam's LandmineFix
 - TheDeadSnake's Touchscreen
 - TwinDimensionalProductions' CoilHeadStare
 - Verity's TooManySuits
+- ViViKo's AllTheScrap
+- ViViKo's AmongUsSuits
+- ViViKo's SquidGameSuits
 - x753's Mimics
 - x753's More_Suits
 

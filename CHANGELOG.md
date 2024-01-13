@@ -3,6 +3,40 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.3</summary>
+
+- Added Runtime_Netcode_Patcher by Ozone: Patches Netcode RPC methods during runtime utilising Harmony
+- Added LethalLevelLoader by IAmBatby: A Custom API to support integrations of custom levels and dungeons
+- Added AdditionalContentFramework AlexCodesGames: Acts as a module for other mods
+- Added NiceChat by taffyko: Better text chat. Infinite scrolling message history
+- Added VoiceHUD by 5Bit: Displays the ingame push-to-talk icon, when detecting voice activity
+- Added AllTheScrap by ViViKo: Adds a bunch of scrap items
+- Added WeatherMultipliers by Blorb: Moons with active weather will contain scrap with higher value
+- Added SCP Foundation Suit by TeamClark: Adds an SCP Facility Guard suit to the game
+- Added AmongUsSuits by ViViKo: Adds several amongus suits
+- Added SquidGameSuits by ViViKo: Adds several squidgame suits
+- Updated Boombox_Controller to version 1.1.8
+- Updated ReservedItemSlotCore to version 1.8.9
+- Updated MoreHead to version 1.2.3
+- Updated LethalLib to version 0.12.1
+- Updated ReservedWeaponSlot to version 1.0.5
+- Updated ReservedWalkieSlot to version 1.5.5
+- Updated ReservedFlashlightSlot to version 1.5.9
+- Updated HotbarPlus to version 1.5.1
+- Updated LethalLevelLoader to version 1.0.6
+- Updated Scoopys_Variety_Mod to version 0.6.4
+- Updated ghostCodes to version 1.5.0
+- Updated LethalThings to version 0.9.4
+- Updated AdditionalSuits to version 2.0.0
+- Updated More_Emotes to version 1.3.3
+- Updated Skinwalkers to version 2.0.7
+- Updated LethalFashion to version 1.0.6
+- Updated MoreItems to version 1.0.2
+- Updated Orion to version 1.2.0
+
+</details>
+
+<details>
 <summary>Version 1.5.2</summary>
 
 - Fixed missing configurations for the MirrorDecor mod
