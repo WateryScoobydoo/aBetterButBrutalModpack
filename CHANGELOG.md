@@ -15,6 +15,7 @@
 - Added SCP Foundation Suit by TeamClark: Adds an SCP Facility Guard suit to the game
 - Added AmongUsSuits by ViViKo: Adds several amongus suits
 - Added SquidGameSuits by ViViKo: Adds several squidgame suits
+- Adjusted configurations for ScoopysVarietyMod, changing the Castle Dungeon to all paid moons
 - Updated Boombox_Controller to version 1.1.8
 - Updated ReservedItemSlotCore to version 1.8.9
 - Updated MoreHead to version 1.2.3
