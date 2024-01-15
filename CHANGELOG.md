@@ -3,6 +3,38 @@
 ### Version 1.5.X
 
 <details>
+<summary>Version 1.5.4</summary>
+
+- Adjusted configurations for ghostCodes, increasing ghost events per round
+- Adjusted configurations for ghostCodes, increasing chance to close doors
+- Adjusted configurations for ghostCodes, increasing chance to turn off lights during ghost events
+- Adjusted configurations for LethalThings, modifying the ToyHammer into a scrap, rather than a buyable item
+- Adjusted configurations for MaskedEnemyOverhaul, adding player names to masked enemies
+- Adjusted configurations for WeatherMultipliers, increasing stormy weather multipler to 1.3
+- Adjusted configurations for WeatherMultipliers, increasing eclipsed weather multipler to 1.55
+- Updated MaskedEnemyOverhaul to version 3.0.0
+- Updated ReservedItemSlotCore to version 1.8.10
+- Updated LC_API to version 3.4.1
+- Updated LethalExpansion to version 1.3.19
+- Updated LethalLib to version 0.13.0
+- Updated ReservedWeaponSlot to version 1.0.6
+- Updated LethalCompany_InputUtils to version 0.5.5
+- Updated ReservedFlashlightSlot to version 1.5.10
+- Updated HotbarPlus to version 1.5.4
+- Updated Scoopys_Variety_Mod to version 0.6.5
+- Updated AdditionalContentFramework to version 1.0.3
+- Updated Skinwalkers to version 4.0.1
+- Fixed an issue in 1.5.2 where LethalRichPresence was not loading correctly
+- Fixed an issue in 1.5.3 where ghostCodes was not working as intended
+- Fixed an issue in 1.5.3 where LethalThings scraps were not spawning as intended
+- Fixed an issue in 1.5.3 where More_Emotes did not load F9 and F10 emotes
+- Fixed an issue in 1.5.3 where More_Emotes controller support was not loading correctly
+- Fixed an issue in 1.5.3 where HotbarPlus item drop delay was vanilla
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
+</details>
+
+<details>
 <summary>Version 1.5.3</summary>
 
 - Added Runtime_Netcode_Patcher by Ozone: Patches Netcode RPC methods during runtime utilising Harmony
