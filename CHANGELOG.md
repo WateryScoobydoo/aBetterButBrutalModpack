@@ -1,5 +1,45 @@
 ## Releases
 
+### Version 1.6.X
+
+<details>
+<summary>Version 1.6.0</summary>
+
+- Added NoSellLimit by ViViKo: Remove the limit of items that can be placed on the deposit desk
+- Added ToggleMute by quackandcheese: Adds a toggle mute hotkey
+- Added LethalExpansionCore by jockie: De-bloated LethalExpansion fork with only the LethalSDK module support
+- Added ExpansionAssets by sfDesat: Assets for some custom moons
+- Added LethalSettings by willis81808: A centralised place for configuring mods from in-game
+- Added JigglePhysicsPlugin by HGG: Dependency for adding jiggle physics to cosmetics
+- Added Celest by sfDesat: Added the Celest Scrap Retrieval Program
+- Added E Gypt Moon by KayNetsua: Added the E Gypt Moon Scrap Retrieval Program
+- Added StarlancerMoons by AudioKnight: Added the StarlancerMoons Scrap Retrieval Program
+- Added OrbitRecharge by mrov: Automatically recharge all items on the ship when going into orbit
+- Added SlimeTamingFix by EliteMasterEric: Fixes a bug that made Hygroderes unable to be tamed with Boomboxes
+- Added DimmingFlashlights by blink9803: Flashlights gets dimmer as the battery gets low
+- Added GamblingMachineAtTheCompany by JunLethalCompany: Adds a gambling machine to gamble your scraps at The Company Moon
+- Added VanillaContentExpansion by bigmcnugget: Vanilla Frendly Additions
+- Updated MaskedEnemyOverhaul to version 3.1.0
+- Updated LethalRichPresence to version 0.5.6
+- Updated ReservedItemSlotCore to version 1.8.12
+- Updated MoreHead to version 1.2.4
+- Updated LC_API to version 3.4.5
+- Updated LethalExpansion to version 1.3.21
+- Updated LethalLib to version 0.13.2
+- Updated MirrorDecor to version 1.3.0
+- Updated ReservedWalkieSlot to version 1.6.0
+- Updated ReservedFlashlightSlot to version 1.6.1
+- Updated HotbarPlus to version 1.5.7
+- Updated LethalLevelLoader to version 1.0.7
+- Updated ghostCodes to version 1.5.1
+- Updated LCSoundTool to version 1.5.0
+- Updated Aquatis to version 1.0.1
+- Updated SCP_Foundation_Suit to version 1.1.0
+- Fixed a lag spike caused by MirrorDecor
+- Fixed a bug that caused ghostCodes not to show correct signal tanslator codes
+
+</details>
+
 ### Version 1.5.X
 
 <details>

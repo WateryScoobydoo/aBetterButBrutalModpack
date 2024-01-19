@@ -27,6 +27,7 @@ This modpack is still in development and will be releasing more stable versions 
 | 4 | Hotbar Slot 4 |
 | F | Flashlight Toggle |
 | X | Walkie-talkie Toggle |
+| M | Mute Mic Toggle |
 | B | Previous Page for Suits |
 | N | Next Page for Suits |
 | V | Emote Wheel |
@@ -50,15 +51,19 @@ This modpack is still in development and will be releasing more stable versions 
 - AlexCodesGames' AdditionalSuits
 - AllToasters' SpectateEnemies
 - anormaltwig's LateCompany
+- AudioKnight's StarlancerMoons
 - Azim's LethalPresents
 - BatTeam's LethalFashion
 - BepInEx's BepInExPack
+- bigmcnugget's VanillaContentExpansion
+- blink9803's DimmingFlashlights
 - Blorb's WeatherMultipliers
 - Ceelery's Kast
 - CTMods' KarmaForBeingAnnoying
 - darmuh's ghostCodes
 - Drakorle's MoreItems
 - EliteMasterEric's Coroner
+- EliteMasterEric's SlimeTamingFix
 - Evaisa's HookGenPatcher
 - Evaisa's LethalLib
 - Evaisa's LethalThings
@@ -74,11 +79,15 @@ This modpack is still in development and will be releasing more stable versions 
 - FutureSavior's Hold_Scan_Button
 - gamehog44's LethalRadiation
 - Hexnet111's SuitSaver
+- HGG's JigglePhysicsPlugin
 - HolographicWings' LethalExpansion
 - HomelessGinger's MaskedEnemyOverhaul
 - IAmBatby's LethalLevelLoader
 - itsmeowdev's DoorFix
 - Jamil's Corporate_Restructure
+- jockie's LethalExpansionCore
+- JunLethalCompany's GamblingMachineAtTheCompany
+- KayNetsua's E_Gypt_Moon
 - KoderTeh's Boombox_Controller
 - linkoid's DissonanceLagFix
 - MassiveNewCoilers' FixCentipedeLag
@@ -86,6 +95,7 @@ This modpack is still in development and will be releasing more stable versions 
 - Mhz's MoreHead
 - monkes_mods' JumpDelayPatch
 - mrov's LethanRichPresence
+- mrov's OrbitRecharge
 - Nips' Brutal_Company_Plus
 - no00ob's LCSoundTool
 - Norman's GlowStickSuits
@@ -93,12 +103,15 @@ This modpack is still in development and will be releasing more stable versions 
 - Ozone's Runtime_Netcode_Patcher
 - PopleZoo's BetterItemScan
 - quackandcheese's MirrorDecor
+- quackandcheese's ToggleMute
 - RickArg's Helmet_Cameras
 - RugbugRedfern's Skinwalkers
 - Rune580's LethalCompany_InputUtils
 - scoopy's Scoopys_Variety_Mod
 - sfDesat's Aquatis
+- sfDesat's Celest
 - sfDesat's Orion
+- sfDesat's ExpansionAssets
 - Sligili's HDLethalCompany
 - Sligili's More_Emotes
 - taffyko's NameplateTweaks
@@ -111,7 +124,9 @@ This modpack is still in development and will be releasing more stable versions 
 - Verity's TooManySuits
 - ViViKo's AllTheScrap
 - ViViKo's AmongUsSuits
+- ViViKo's NoSellLimit
 - ViViKo's SquidGameSuits
+- willis81808's LethalSettings
 - x753's Mimics
 - x753's More_Suits
 
