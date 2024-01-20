@@ -3,6 +3,21 @@
 ### Version 1.6.X
 
 <details>
+<summary>Version 1.6.1</summary>
+
+- Adjusted configurations for the BrutalCompanyPlus mod: "UNFAIR COMPANY" event reduced to 25% chance overall
+- Updated Aquatis to version 1.1.0
+- Updated MoreCompany to version 1.7.5
+- Updated MoreHead to version 1.2.5
+- Updated Boombox_Controller to version 1.1.9
+- Updated StarlancerMoons to version 0.2.2
+- updated E_Gypt_Moon to version 2.0.9
+- Removed unnecessary configurations from the Modpack
+- **NOTE:** It is highly recommended to create a new profile to enforce new configurations after this release
+
+</details>
+
+<details>
 <summary>Version 1.6.0</summary>
 
 - Added NoSellLimit by ViViKo: Remove the limit of items that can be placed on the deposit desk
@@ -12,7 +27,7 @@
 - Added LethalSettings by willis81808: A centralised place for configuring mods from in-game
 - Added JigglePhysicsPlugin by HGG: Dependency for adding jiggle physics to cosmetics
 - Added Celest by sfDesat: Added the Celest Scrap Retrieval Program
-- Added E Gypt Moon by KayNetsua: Added the E Gypt Moon Scrap Retrieval Program
+- Added E_Gypt_Moon by KayNetsua: Added the E Gypt Moon Scrap Retrieval Program
 - Added StarlancerMoons by AudioKnight: Added the StarlancerMoons Scrap Retrieval Program
 - Added OrbitRecharge by mrov: Automatically recharge all items on the ship when going into orbit
 - Added SlimeTamingFix by EliteMasterEric: Fixes a bug that made Hygroderes unable to be tamed with Boomboxes
